@@ -126,6 +126,7 @@ Exemple :
 
 **Editez ici**
 
+Je vais tester la fonction "amend" !
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"

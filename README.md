@@ -20,7 +20,7 @@ Puis cloner votre fork sur votre PC (avec VSCode).
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
 
-# Gitignore
+# Gitignore 
 
 Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer (c-à-d qu'il ne gardera pas l'historique de leurs modifications).
 
@@ -36,7 +36,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - Faire vous-même un nouveau fichier `.gitignore` à la racine.
     - Sélectionner les mêmes choix sur le site [gitignore.io]
     - Copier le contenu généré dans votre fichier `.gitignore`
-- [ ] cocher et faire commit "ajout .gitignore"
+- [X] cocher et faire commit "ajout .gitignore"
 
 [gitignore.io]: http://gitignore.io
 
